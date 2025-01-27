@@ -36,3 +36,7 @@ Manages the UI and logic for unit placement before battles, integrating grid val
 **4. SpellCastAction**
 
 Manages the spellcasting action, including spell selection, targeting, visual and audio animations, and application of spell effects to units.
+
+**5. UnitStats**
+
+Manages unit statistics, unit modifications, and logic related to damage, experience, and levels.
