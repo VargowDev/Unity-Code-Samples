@@ -25,10 +25,14 @@ The purpose of this repository is to provide a snapshot of my coding abilities f
 
 A core script for managing turn-based gameplay, including unit queues, turn progression, and event handling.
 
-**3. SaveSystem**
+**2. SaveSystem**
 
 Handles saving and loading game state using JSON serialization, with support for complex data structures like quests, units, and inventory.
 
-**5. UnitPlacementUI**
+**3. UnitPlacementUI**
 
 Manages the UI and logic for unit placement before battles, integrating grid validation and dynamic UI updates.
+
+**4. SpellCastAction**
+
+Manages the spellcasting action, including spell selection, targeting, visual and audio animations, and application of spell effects to units.
