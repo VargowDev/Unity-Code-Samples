@@ -40,3 +40,7 @@ Manages the spellcasting action, including spell selection, targeting, visual an
 **5. UnitStats**
 
 Manages unit statistics, unit modifications, and logic related to damage, experience, and levels.
+
+**6. PathManager**
+
+Spline-based pathfinding system that uses graphs to represent paths and nodes.
