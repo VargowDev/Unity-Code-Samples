@@ -11,9 +11,24 @@ This repository contains selected code samples from my Unity projects, showcasin
 - These scripts are taken from real projects, including my personal game project, Warlords of Arcania. They represent my approach to writing clean, maintainable, and efficient code.
 
 **Purpose**
+
 The purpose of this repository is to provide a snapshot of my coding abilities for recruiters, collaborators, or anyone interested in my work as a Unity Developer. The examples highlight my skills in:
 
 - Object-oriented programming (OOP) in C#
 - Unity game development
 - Designing scalable and reusable systems
 - Solving complex gameplay problems
+
+**Scripts Included:**
+
+**1. TurnSystem**
+
+A core script for managing turn-based gameplay, including unit queues, turn progression, and event handling.
+
+**3. SaveSystem**
+
+Handles saving and loading game state using JSON serialization, with support for complex data structures like quests, units, and inventory.
+
+**5. UnitPlacementUI**
+
+Manages the UI and logic for unit placement before battles, integrating grid validation and dynamic UI updates.
