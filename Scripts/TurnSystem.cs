@@ -193,7 +193,7 @@ namespace WarlordsOfArcania.GameSystems
             }
 
             // Safety loop: make sure the entity is not dead
-            int safetyCounter = 0; // Dodajemy licznik zabezpieczaj¹cy przed nieskoñczon¹ pêtl¹
+            int safetyCounter = 0;
             while (turnQueue[currentUnitIndex].IsDead())
             {
                 currentUnitIndex++;
