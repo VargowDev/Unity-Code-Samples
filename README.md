@@ -45,7 +45,8 @@ Manages unit statistics, unit modifications, and logic related to damage, experi
 
 Spline-based pathfinding system that uses graphs to represent paths and nodes.
 
-** My Games **
+**My Games**
 
 **Warlords Of Arcania**
+
 This game is available for download on **[itch.io](https://yourgame.itch.io/your-game-title)**. 
