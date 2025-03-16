@@ -51,4 +51,4 @@ Spline-based pathfinding system that uses graphs to represent paths and nodes.
 
 **Warlords Of Arcania**
 
-This game is available for download on **[itch.io](https://yourgame.itch.io/your-game-title)**. 
+This game is available for download on **[itch.io]((https://vargow55.itch.io/warlords-of-arcania))**. 
