@@ -8,6 +8,11 @@ using TheRevenantEngine.Systems;
 
 namespace TheRevenantEngine.Equipment
 {
+    /// <summary>
+    /// Manages the currently equipped weapons, shooting logic, weapon switching, and reloading for the player.
+    /// Integrates with input, UI, and equipment systems. Supports both 
+    /// automatic and semi-automatic firearms with state-based firing and reloading behavior
+    /// </summary>
     public class ActiveWeaponHandler : MonoBehaviour
     {
         private StarterAssetsInputs starterAssetsInputs;
