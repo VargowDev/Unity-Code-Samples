@@ -53,6 +53,10 @@ Custom grid-based inventory system inspired by classic survival games like STALK
 
 Manages the currently equipped weapons, shooting logic, weapon switching, and reloading for the player. Integrates with input, UI, and equipment systems. Supports both automatic and semi-automatic firearms with state-based firing and reloading behavior.
 
+**9. InteractionController**
+
+Handles real-time world interaction using raycasting and interface-based logic. Supports inspecting, highlighting, and interacting with world objects and enemies via crosshair detection. Integrates with the UI system to display context-sensitive prompts and enemy information.
+
 ## My Games ##
 
 ### 🎮 Turn-Based Strategy Game ###
