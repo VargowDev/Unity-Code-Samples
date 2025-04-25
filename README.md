@@ -49,6 +49,10 @@ Spline-based pathfinding system that uses graphs to represent paths and nodes.
 
 Custom grid-based inventory system inspired by classic survival games like STALKER and Diablo 2. This script manages a 2D grid of inventory slots and supports item placement logic, including rotation and slot availability checks.
 
+**8. ActiveWeaponHandler**
+
+Manages the currently equipped weapons, shooting logic, weapon switching, and reloading for the player. Integrates with input, UI, and equipment systems. Supports both automatic and semi-automatic firearms with state-based firing and reloading behavior.
+
 ## My Games ##
 
 ### 🎮 Turn-Based Strategy Game ###
