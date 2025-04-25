@@ -45,6 +45,10 @@ Manages unit statistics, unit modifications, and logic related to damage, experi
 
 Spline-based pathfinding system that uses graphs to represent paths and nodes.
 
+**7. InventoryGrid**
+
+Custom grid-based inventory system inspired by classic survival games like STALKER and Diablo 2. This script manages a 2D grid of inventory slots and supports item placement logic, including rotation and slot availability checks.
+
 ## My Games ##
 
 ### 🎮 Turn-Based Strategy Game ###
