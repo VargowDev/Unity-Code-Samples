@@ -57,6 +57,14 @@ Manages the currently equipped weapons, shooting logic, weapon switching, and re
 
 Handles real-time world interaction using raycasting and interface-based logic. Supports inspecting, highlighting, and interacting with world objects and enemies via crosshair detection. Integrates with the UI system to display context-sensitive prompts and enemy information.
 
+**10. EnemyAIBehaviour**
+
+Simple coroutine-based AI behavior for enemies. Handles enemy detection, chasing, and attack logic based on player distance using a finite state machine structure.
+
+**11. CharacterState**
+
+Lightweight finite state machine controller for enemies. Manages character movement, attacks, animations, and death transitions by switching between predefined states like Patrol, Chase, Attack, and Dead.
+
 ## My Games ##
 
 ### 🎮 Turn-Based Strategy Game ###
