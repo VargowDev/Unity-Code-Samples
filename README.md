@@ -69,7 +69,7 @@ Lightweight finite state machine controller for enemies. Manages character movem
 
 Production system for economy buildings in a city-building game inspired by *The Settlers*. Manages automated ware production based on player orders, checks material availability, and requests deliveries from nearby warehouses if needed. Supports both crafting buildings and resource-gathering structures. Integrates with inventory and delivery task systems using coroutine-based production timers.
 
-**13. BuildingWareFactory**
+**13. BuildingPlacementManager**
 
 Central system for handling player-driven construction in Guilds and Glory. Manages placement modes for regular buildings, spline-based roads, and resource collectors.
 
