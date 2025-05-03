@@ -65,6 +65,10 @@ Simple coroutine-based AI behavior for enemies. Handles enemy detection, chasing
 
 Lightweight finite state machine controller for enemies. Manages character movement, attacks, animations, and death transitions by switching between predefined states like Patrol, Chase, Attack, and Dead.
 
+**12. BuildingWareFactory**
+
+Production system for economy buildings in a city-building game inspired by *The Settlers*. Manages automated ware production based on player orders, checks material availability, and requests deliveries from nearby warehouses if needed. Supports both crafting buildings and resource-gathering structures. Integrates with inventory and delivery task systems using coroutine-based production timers.
+
 ## My Games ##
 
 ### 🎮 Turn-Based Strategy Game ###
@@ -72,3 +76,10 @@ Lightweight finite state machine controller for enemies. Manages character movem
 **Warlords Of Arcania**
 
 This game is available for download on **[itch.io](https://vargow55.itch.io/warlords-of-arcania)**. 
+
+### 🎮 Retro Shooter ###
+
+**Sewer Shooter**
+
+This game is available for download on **[itch.io](https://vargow55.itch.io/sewer-shooter)**. 
+
